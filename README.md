@@ -1,4 +1,7 @@
 cmp211
 ======
 
-seudo bank system using java. 
+Banking using java -
+Displays a menu to create a new account, deposit, withdraw from an existing account, and request an account inquiry.
+  
+@author Zainab Ebrahimi
